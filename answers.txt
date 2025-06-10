@@ -20,6 +20,6 @@ By eliminating these merge commits, it can result in a cleaner commit history.
 
 Q4: What are you looking forward to this semester?
 
-Answer: i am looking forward to learning about how to use machine learning to make predictions based on data.
+Answer: I am looking forward to learning about how to use machine learning to make predictions based on data.
 Furthermore, I am looking forward to learning about more SQL, as I know it is important in industry work when handling data.
 I aspire to be a data scientist or a machine learning engineer, so this course offers a great introduction to important topics within those professions.
