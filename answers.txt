@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: Git stores my repository on a server, allowing me to access my work if it was deleted on my system.
+Furthermore, Git records changes that I make to a repository and will allow me to quickly undo if there was a mistake.
+I am also able to share progress and collaborate with others through Git, making it essential when working in a team.
