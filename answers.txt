@@ -12,3 +12,8 @@ For example, a company with a lot of customer records can use data science to
 analyze their data. They can identify purchase patterns and create targeted
 marketing campaigns to improve their sales through the use of data science.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging brings two branches together and preserves the history of the project.
+On the other hand, rebase effectively rewrites the commit history of the source branch.
+By eliminating these merge commits, it can result in a cleaner commit history.
